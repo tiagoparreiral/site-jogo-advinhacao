@@ -1,0 +1,40 @@
+body {
+
+}
+
+.imagem {
+    width: 100vw;
+    height: 100vh;
+    background: url(../images/background.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: left;
+    margin: 200px 0px 30px 250px;
+}
+
+p {
+    font-size: 35px;
+    text-align: left;
+    margin: 80px 0px 30px 90px;
+}
+
+input {
+    font-size: 30px;
+    text-align: center;
+    margin: 80px 0px 30px 150px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+button {
+    background: white;
+    font-size: 35px;
+    text-align: left;
+    margin: 80px 0px 30px 30px;
+    padding: 6px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
